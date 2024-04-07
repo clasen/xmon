@@ -1,0 +1,26 @@
+{
+  "name": "xmon",
+  "version": "1.0.0",
+  "description": "📦 A simple and minimal package for converting between XML and JSON formats",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clasen/xmon.git"
+  },
+  "keywords": [
+    "XML",
+    "JSON",
+    "conversion",
+    "stringify",
+    "dom",
+    "bridge",
+    "lightweight",
+    "serialization"
+  ],
+  "author": "Martin Clasen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clasen/xmon/issues"
+  },
+  "homepage": "https://github.com/clasen/xmon#readme"
+}
