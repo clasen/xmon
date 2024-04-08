@@ -1,6 +1,6 @@
 # 📦 xmon
 
-A simple and lightweight package for converting between XML and JSON formats.
+A simple and minimal package for converting between XML and JSON formats.
 
 ## 🚀 Installation
 
@@ -62,6 +62,9 @@ Output:
 }
 */
 ```
+
+## 📝 Note
+Please note that this package does not support XML attributes. It only handles element names and values.
 
 ## 📚 API
 
